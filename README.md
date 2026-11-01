@@ -2,9 +2,9 @@
   <img src="imagens/Capa_github.png" alt="Header" width="100%"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá!+👋;Sou+o+Clênio+Oliveira!;AI+Engineer+%26+SaaS+Founder;Arquiteturas+Multiagente+%26+RAG" alt="Typing SVG"/>
-</h1>
+<h1 align="center">Clênio Oliveira</h1>
+
+<p align="center"><b>AI Agent Engineer e fundador do Kermartin</b>: construo sistemas multiagente, RAG e SaaS para LegalTech, GovTech e HealthTech, do protótipo à produção.</p>
 
 <div align="center">
 
@@ -15,20 +15,26 @@
 
 </div>
 
-> ℹ️ Este é meu novo perfil. Meus repositórios foram migrados de [@clenio77](https://github.com/clenio77).
+<p align="center"><sub>Novo perfil: repositórios migrados de <a href="https://github.com/clenio77">@clenio77</a>.</sub></p>
 
 ---
 
-## 🚀 Perfil Profissional
+## 🚀 Sobre
 
-**AI Agent Engineer | Arquiteto de Sistemas SaaS | Cientista de Dados**
+- 🔭 Fundador do [Kermartin](https://kermartin.ia.br), SaaS de análise jurídica com IA.
+- 🎓 Bacharel em Sistemas de Informação (2018).
+- 🤖 Orquestração multiagente (CrewAI), RAG, modelagem preditiva e Edge AI.
+- 🛡️ Anonimização local sob a LGPD e auditoria de APIs.
 
-Especializado no desenvolvimento de ecossistemas inteligentes corporativos e soluções completas ponta a ponta (SaaS). Atuo com foco em modelagem preditiva, engenharia de prompts avançada (Chain-of-Thought) e orquestração de sistemas multiagente autônomos para setores regulados de alta complexidade, como **LegalTech**, **GovTech** e **HealthTech**.
+---
 
-- 🔭 **Fundador**: [Kermartin](https://kermartin.ia.br) (SaaS de análise jurídica com IA).
-- 🎓 **Formação**: Bacharel em Sistemas de Informação (2018).
-- 🤖 **Especialidades em IA**: Orquestração Multiagente (CrewAI), RAG, Modelagem Preditiva e Edge AI para processamento local de dados clínicos.
-- 🛡️ **Segurança e Conformidade**: Pipelines locais de anonimização sob a LGPD e auditoria de APIs.
+## 🔨 Construindo agora
+
+- 🏪 **Portal do comércio do Jardim Holanda** (Uberlândia): site estático em Astro alimentado por planilha, com coleta de dados em Python.
+- 🛞 **Landing pages de alta conversão para Google Ads**, como a [Borracharia Bodoque](https://bodoqueborrachariamovel.vercel.app).
+- 📖 **Leitor da Escrivaninha**: leitor de PDF em formato de livro, 100% no navegador e PWA.
+
+<sub>Repositórios privados; links apenas para o que está no ar.</sub>
 
 ---
 
@@ -75,6 +81,7 @@ Federação de sandboxes para comparar modelos e agentes com scoring blindado, s
 <td width="50%" valign="top">
 
 ### 🔍 [DeepTrace](https://github.com/cleniooliveiramoura/deep-trace)
+<img src="https://raw.githubusercontent.com/cleniooliveiramoura/deep-trace/HEAD/assets/og-banner.png" alt="DeepTrace" width="100%"/><br/>
 Web app + extensão Chrome de fact-checking de vídeos contra desinformação, com Google Gemini multimodal.<br/>
 **Stack:** JavaScript · Gemini<br/>
 🌐 [deep-trace-analysis.vercel.app](https://deep-trace-analysis.vercel.app)
@@ -82,9 +89,9 @@ Web app + extensão Chrome de fact-checking de vídeos contra desinformação, c
 </td>
 <td width="50%" valign="top">
 
-### 🏛️ [CVP-IA — Painel Parlamentar](https://github.com/cleniooliveiramoura/painel-de-gastos-de-parlamentares)
-Consulta e auditoria de gastos, votações, proposições e alertas de parlamentares da Câmara e do Senado.<br/>
-**Stack:** JavaScript · Supabase · PWA
+### 🎵 [SonicStream](https://github.com/cleniooliveiramoura/sonicStream)
+Extrator de áudio (MP3) e vídeo (MP4) self-hosted, com fila em threads e PWA responsivo.<br/>
+**Stack:** Python · FastAPI · yt-dlp · FFmpeg · Docker
 
 </td>
 </tr>
@@ -98,7 +105,7 @@ Agente de suporte à decisão clínica e auditoria de prescrições, com privaci
 </td>
 <td width="50%" valign="top">
 
-### 🎵 [Liturgia Isaías — Caderno da Missa](https://liturgia-isaias.vercel.app)
+### ⛪ [Liturgia Isaías — Caderno da Missa](https://liturgia-isaias.vercel.app)
 Repertório litúrgico digital com letras e cifras para as missas.<br/>
 **Stack:** Next.js · TypeScript · Tailwind · PWA<br/>
 🌐 [liturgia-isaias.vercel.app](https://liturgia-isaias.vercel.app)
@@ -109,7 +116,7 @@ Repertório litúrgico digital com letras e cifras para as missas.<br/>
 <td width="50%" valign="top">
 
 ### ✍️ [ContentOS](https://github.com/cleniooliveiramoura/ContentOS)
-Sistema operacional editorial AI-native para produção de conteúdo técnico, integrado a pipelines como o [YouTube Lo-Fi Workflow](https://github.com/cleniooliveiramoura/youtube-lofi-workflow).<br/>
+Sistema operacional editorial AI-native para produção de conteúdo técnico, integrado a pipelines como o YouTube Lo-Fi Workflow.<br/>
 **Stack:** Specs em Markdown · agentes no Cursor · Python
 
 </td>
@@ -127,48 +134,11 @@ Cliente desktop leve para Telegram (Tauri 2 + Telegram Web K) e shell PWA para c
 
 ## 📂 Outros Projetos
 
-**🤖 IA, agentes e automação** —
-[ClenioClaw](https://github.com/cleniooliveiramoura/clenioclaw) (assistente pessoal no Telegram) ·
-[Hermes](https://github.com/cleniooliveiramoura/hermes) (config do Hermes Agent) ·
-[Mentor de Concursos](https://github.com/cleniooliveiramoura/agente_concurseiro) ·
-[Agente Social Media](https://github.com/cleniooliveiramoura/agente_social_media) ·
-[SocialBot](https://github.com/cleniooliveiramoura/socialbot) ·
-[Agente Autônomo](https://github.com/cleniooliveiramoura/agente-autonomo)
+**⚖️ GovTech & LegalTech:** CVP-IA (auditoria de gastos parlamentares) · Licita-AI (licitações no Microsoft 365)<br/>
+**📱 Apps e SaaS:** Agenda Clinical (SaaS para psicólogos) · Carteira Inteligente (investimentos com IA) · RotaFácil (rotas de entrega)<br/>
+**⛪ Igreja e comunidade:** [Capelania Jesus Bom Pastor](https://capelania.vercel.app) · Ministério Isaías
 
-**⚖️ LegalTech & GovTech** —
-[Licita-AI](https://github.com/cleniooliveiramoura/licita-ai) (licitações no Microsoft 365 / Power Platform / Azure Functions) ·
-[Licitação AI](https://github.com/cleniooliveiramoura/licitacao-ai) ·
-[Advocacia AI](https://github.com/cleniooliveiramoura/escritorio-ai-advocacia)
-
-**📱 Apps, SaaS e ferramentas** —
-[Agenda Clinical](https://github.com/cleniooliveiramoura/pscologo-ai) (SaaS para psicólogos) ·
-[Carteira Inteligente](https://github.com/cleniooliveiramoura/carteira-inteligente) (investimentos com IA) ·
-[Gestor Financeiro](https://github.com/cleniooliveiramoura/gestor-financeiro) ·
-[RotaFácil](https://github.com/cleniooliveiramoura/rota-facil) (rotas de entrega) ·
-[Fênix PDF](https://github.com/cleniooliveiramoura/Fenix-PDF) ·
-[Leitor da Escrivaninha](https://github.com/cleniooliveiramoura/leitor-pdf-livro) (PDF como livro) ·
-[SonicStream](https://github.com/cleniooliveiramoura/sonicStream) (extrator de áudio/vídeo PWA) ·
-[Portal Jardim Holanda](https://github.com/cleniooliveiramoura/portal-jardim-holanda) (comércio do bairro)
-
-**🌐 Sites para clientes** —
-[Borracharia Bodoque](https://github.com/cleniooliveiramoura/bodoqueborrachariamovel) ([no ar](https://bodoqueborrachariamovel.vercel.app)) ·
-[Cerimonial Helton Oliveira](https://github.com/cleniooliveiramoura/cerimonial)
-
-**⛪ Igreja e liturgia** —
-[Capelania Jesus Bom Pastor](https://github.com/cleniooliveiramoura/capelania) ([no ar](https://capelania.vercel.app)) ·
-[Ministério Isaías](https://github.com/cleniooliveiramoura/ministerioisaias) ·
-[Comunidade Santo Expedito](https://github.com/cleniooliveiramoura/santoexpedito) ·
-[Acalanto Sagrado](https://github.com/cleniooliveiramoura/acalanto-sagrado-legal)
-
-**📊 Ciência de dados e estudos** —
-[RiskRating](https://github.com/cleniooliveiramoura/RiskRating) ·
-[Recomendação de Filmes](https://github.com/cleniooliveiramoura/movies_recomendation_system) ·
-[Prever Salário](https://github.com/cleniooliveiramoura/Prever_salario) ·
-[KC House](https://github.com/cleniooliveiramoura/kc_house) ·
-[Data Science em Produção](https://github.com/cleniooliveiramoura/DataScienceEmProducao) ·
-[Educação Financeira com IA](https://github.com/cleniooliveiramoura/educacao-financeira) ·
-[Bootcamp Bradesco GenAI](https://github.com/cleniooliveiramoura/bootcamp-bradesco-dio-genai-dados-cyber) ·
-[Seja Data Science](https://github.com/cleniooliveiramoura/sejadatascience)
+<sub>Repositórios privados; os links levam aos sites no ar.</sub>
 
 ---
 
