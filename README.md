@@ -115,13 +115,6 @@ Repertório litúrgico digital com letras e cifras para as missas.<br/>
 <tr>
 <td width="50%" valign="top">
 
-### ✍️ [ContentOS](https://github.com/cleniooliveiramoura/ContentOS)
-Sistema operacional editorial AI-native para produção de conteúdo técnico, integrado a pipelines como o YouTube Lo-Fi Workflow.<br/>
-**Stack:** Specs em Markdown · agentes no Cursor · Python
-
-</td>
-<td width="50%" valign="top">
-
 ### 💬 [KoTauri](https://github.com/cleniooliveiramoura/clenio-kotauri)
 Cliente desktop leve para Telegram (Tauri 2 + Telegram Web K) e shell PWA para celular.<br/>
 **Stack:** Rust · Tauri 2 · PWA
